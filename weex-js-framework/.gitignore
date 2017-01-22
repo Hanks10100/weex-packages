@@ -1,8 +1,0 @@
-*.log
-.npm
-npm-debug.log*
-node_modules
-
-_release
-dist
-weex
